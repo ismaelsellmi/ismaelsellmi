@@ -15,11 +15,9 @@
 
 <!-- ============ SOCIAL BADGES ============ -->
 <div align="center">
-  <a href="mailto:alyhost.dev@gmail.com"><img src="https://img.shields.io/badge/Email-c0caf5?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="email"/></a>
-  <!-- TODO: remplace l'URL par ton vrai profil LinkedIn -->
-  <a href="https://www.linkedin.com/in/ismaelsellmi/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="linkedin"/></a>
-  <!-- TODO: remplace par l'URL de ton portfolio déployé -->
-  <a href="https://ismaelsellmi.dev"><img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=1a1b27" alt="portfolio"/></a>
+  <a href="mailto:ismael.sellmi@gmail.com"><img src="https://img.shields.io/badge/Email-c0caf5?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/ismail-selmi21/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="linkedin"/></a>
+  <a href="https://ismael-sellmi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=vercel&logoColor=1a1b27" alt="portfolio"/></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=ismaelsellmi&label=Profile%20views&color=7aa2f7&style=flat-square" alt="views"/>
   <a href="https://github.com/ismaelsellmi?tab=followers"><img src="https://img.shields.io/github/followers/ismaelsellmi?label=Followers&style=flat-square&color=7aa2f7" alt="followers"/></a>
